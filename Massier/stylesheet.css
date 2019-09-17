@@ -1,0 +1,9 @@
+body { margin-left: 10%; margin-right 10%; font-family: Arial; font-size: 18px; display: block; text-align: left;}
+p.top { color: #000066;}
+h1.top { color: #5e6163;}
+td.table { color: #000066;}
+p.grey { color: #5e6163;}
+a {color: #003366; text-decoration: none;}
+a:visited {color: #660066; text-decoration: none;}
+a:hover {color: black; text-decoration: underline;}
+a:active {color: black; text-decoration: underline;}
